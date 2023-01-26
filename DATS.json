@@ -1,0 +1,328 @@
+{
+  "title": "CP-NET: Hemi-NET Clinical Database Release",
+  "description": "This controlled data release focuses on CP-NET's initial Clinical Database which solely focused on children and youth, aged 2-18, with a confirmed diagnosis of hemiplegic cerebral palsy (CP). The Hemi-NET Clinical Database has data on 320 children and youth from across Ontario. The released data is organized around the following platforms: (1) Clinical Risk Factor Platform: clinically relevant neonatal and obstetric risk factors from obstetrical and neonatal health charts, (2) Genomics Platform: saliva samples acquired from the index child and both biological parent(s), (3) Neuroimaging Platform: standardized coding of clinically acquired neuroimaging, (4) Neurodevelopmental Platform: standardized assessments of gross motor, fine motor, language, cognitive, behavioural function, and self-reported quality of life.",
+  "dates": [
+    {
+      "date": "2017-02-22 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2022-01-01 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute ",
+      "abbreviation": "OBI"
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Clinical"
+      }
+    },
+    {
+      "information": {
+        "value": "Genomics"
+      }
+    },
+    {
+      "information": {
+        "value": "Neuroimaging"
+      }
+    },
+    {
+      "information": {
+        "value": "Demographics"
+      }
+    },
+    {
+      "information": {
+        "value": "Neurodevelopmental"
+      }
+    },
+    {
+      "information": {
+        "value": "Risk Factors"
+      }
+    },
+    {
+      "information": {
+        "value": "CytoScanHD-Array"
+      }
+    },
+    {
+      "information": {
+        "value": "Angio"
+      }
+    },
+    {
+      "information": {
+        "value": "CT"
+      }
+    },
+    {
+      "information": {
+        "value": "DTI"
+      }
+    },
+    {
+      "information": {
+        "value": "MR"
+      }
+    },
+    {
+      "information": {
+        "value": "MRS"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "PDF",
+        "CSV",
+        "TXT"
+      ],
+      "size": 47.24,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Neurodevelopmental profiles of children with unilateral cerebral palsy associated with middle cerebral artery and periventricular venous infarctions",
+      "publicationVenue": "Developmental Medicine & Child Neurology",
+      "authors": [
+        {
+          "fullName": "Darcy Fehlings",
+          "firstName": "Darcy",
+          "middleInitial": "",
+          "lastName": "Fehlings",
+          "affiliations": [
+            {
+              "name": "Holland Bloorview Kids Rehabilitation Hospital, Toronto, Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "fullName": "Pradeep Krishnan",
+          "firstName": "Pradeep",
+          "middleInitial": "",
+          "lastName": "Krishnan",
+          "affiliations": []
+        },
+        {
+          "fullName": "Renee-Marie Ragguett",
+          "firstName": "Renee-Marie",
+          "middleInitial": "",
+          "lastName": "Ragguett",
+          "affiliations": []
+        },
+        {
+          "fullName": "Gabrielle deVeber",
+          "firstName": "Gabrielle ",
+          "middleInitial": "",
+          "lastName": "deVeber",
+          "affiliations": []
+        },
+        {
+          "fullName": " Jan Willem Gorter",
+          "firstName": " Jan Willem",
+          "middleInitial": "",
+          "lastName": "Gorter",
+          "affiliations": []
+        },
+        {
+          "fullName": "Carolyn Hunt",
+          "firstName": "Carolyn",
+          "middleInitial": "",
+          "lastName": "Hunt",
+          "affiliations": []
+        },
+        {
+          "fullName": "Marie Kim",
+          "firstName": "Marie",
+          "middleInitial": "",
+          "lastName": "Kim",
+          "affiliations": []
+        },
+        {
+          "fullName": "Ronit Mesterman ",
+          "firstName": "Ronit",
+          "middleInitial": "",
+          "lastName": "Mesterman ",
+          "affiliations": []
+        },
+        {
+          "fullName": "Anna McCormick",
+          "firstName": "Anna",
+          "middleInitial": "",
+          "lastName": "McCormick",
+          "affiliations": []
+        }
+      ],
+      "dates": [
+        {
+          "date": "2021-01-31 00:00:00",
+          "type": {
+            "value": "date of publication"
+          }
+        }
+      ],
+      "identifier": {
+        "identifier": "10.1111/dmcn.14818",
+        "identifierSource": "https://pubmed.ncbi.nlm.nih.gov/33521966/"
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada",
+      "description": ""
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI"
+        },
+        {
+          "name": "Cerebral Palsy Neuroscience Discovery Network",
+          "abbreviation": "CP-NET"
+        },
+        {
+          "name": "Government of Ontario",
+          "abbreviation": ""
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "hemiplegia"
+    },
+    {
+      "value": "cerebral palsy"
+    },
+    {
+      "value": "pediatric"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "320"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/sites/default/files/CP-NET%20logo.jpg"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
