@@ -24,22 +24,26 @@
   "types": [
     {
       "information": {
-        "value": "Clinical"
+        "value": "Clinical",
+		"valueIRI": "http://uri.interlex.org/ilx_0102254"
       }
     },
     {
       "information": {
-        "value": "Genomics"
+        "value": "Genomics",
+		"valueIRI": "http://uri.interlex.org/ilx_0741204"
       }
     },
     {
       "information": {
-        "value": "Neuroimaging"
+        "value": "Neuroimaging",
+		"valueIRI": "http://uri.interlex.org/ilx_0741206"
       }
     },
     {
       "information": {
-        "value": "Demographics"
+        "value": "Demographics",
+		"valueIRI": "http://uri.interlex.org/ilx_0103016"
       }
     },
     {
@@ -59,17 +63,20 @@
     },
     {
       "information": {
-        "value": "Angio"
+        "value": "Angio",
+		"valueIRI": "http://uri.interlex.org/ilx_0100622"
       }
     },
     {
       "information": {
-        "value": "CT"
+        "value": "CT",
+		"valueIRI": "http://uri.interlex.org/ilx_0778786"
       }
     },
     {
       "information": {
-        "value": "DTI"
+        "value": "DTI",
+		"valueIRI": "http://uri.interlex.org/ilx_0103240"
       }
     },
     {
@@ -79,7 +86,8 @@
     },
     {
       "information": {
-        "value": "MRS"
+        "value": "MRS",
+		"valueIRI": "http://uri.interlex.org/ilx_0106464"
       }
     }
   ],
